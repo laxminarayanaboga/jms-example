@@ -13,3 +13,7 @@ Run the Aparche Artemis Broker
 - ClinicalsApp is trying to get the patient's Insurance eligibilty from EligibiltyCheckerApp. 
 
 # Pub-Sub Messaging Example (Publish Subscribe Example)
+- HR app publishes a message onto TOPIC. 
+- SecurityApp - acts as consumer - Demonstrates the durableConsumer
+- PayrollApp - acts as consumer
+- WelnessApp - acts as consumer - Demonstrates the Shared Consumer
