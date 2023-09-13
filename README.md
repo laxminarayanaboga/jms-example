@@ -17,3 +17,7 @@ Run the Aparche Artemis Broker
 - SecurityApp - acts as consumer - Demonstrates the durableConsumer
 - PayrollApp - acts as consumer
 - WelnessApp - acts as consumer - Demonstrates the Shared Consumer
+
+
+
+---END---
