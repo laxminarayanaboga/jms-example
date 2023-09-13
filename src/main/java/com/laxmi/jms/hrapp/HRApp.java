@@ -4,7 +4,7 @@ import com.laxmi.jms.hrapp.model.Employee;
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 
 import javax.jms.JMSContext;
-import javax.jms.Queue;
+
 import javax.jms.Topic;
 import javax.naming.InitialContext;
 
